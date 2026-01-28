@@ -20,9 +20,10 @@ bashpnpm install
 
 Create a .env.local file using .env.example:
 
-bashSHOPIFY_STOREFRONT_PRIVATE_ACCESS_TOKEN="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"
+SHOPIFY_STOREFRONT_PRIVATE_ACCESS_TOKEN=your_storefront_access_token
 NEXT_PUBLIC_SHOPIFY_STORE_NAME=your_store_name
 NEXT_PUBLIC_SHOPIFY_STOREFRONT_API_VERSION=2025-07
+
 
 Run the development server:
 
